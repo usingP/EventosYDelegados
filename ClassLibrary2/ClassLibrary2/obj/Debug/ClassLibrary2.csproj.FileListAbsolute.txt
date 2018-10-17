@@ -3,4 +3,3 @@ D:\VS D Using\EventosYDelegados\ClassLibrary2\ClassLibrary2\bin\Debug\ClassLibra
 D:\VS D Using\EventosYDelegados\ClassLibrary2\ClassLibrary2\obj\Debug\ClassLibrary2.csproj.CoreCompileInputs.cache
 D:\VS D Using\EventosYDelegados\ClassLibrary2\ClassLibrary2\obj\Debug\ClassLibrary2.dll
 D:\VS D Using\EventosYDelegados\ClassLibrary2\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
-D:\VS D Using\EventosYDelegados\ClassLibrary2\ClassLibrary2\obj\Debug\ClassLibrary2.csprojResolveAssemblyReference.cache
